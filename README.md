@@ -88,6 +88,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm i --global @sanity/cli
   ```
+* TypeScript
+  ```sh
+  npm install typescript --save-dev
+  ```
 
 ### Installation
 
@@ -99,6 +103,11 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm i
    ```
+3. Install CMS packages
+  ```
+  cd bloggify-cms
+  npm i
+  ```
 3. [Create Sanity Project](https://www.sanity.io/manage)
 4. Insert your Data in `.env`
 ```env
