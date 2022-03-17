@@ -13,7 +13,7 @@
     <a href="https://github.com/jusoftdev/bloggify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="http://bloggify.jusoft.dev">View Demo</a>
+    <a href="http://bloggify.jsft.be">View Demo</a>
     ·
     <a href="https://github.com/jusoftdev/bloggify/issues">Report Bug</a>
     ·
