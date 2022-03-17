@@ -88,6 +88,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm i --global @sanity/cli
   ```
+* Typescript
+  ```sh
+  npm i typescript --save-dev
+  ```
 
 ### Installation
 
